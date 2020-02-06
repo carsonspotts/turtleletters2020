@@ -21,3 +21,46 @@ t.right(90)
 t.forward(180)
 t.left(90)
 t.forward(180)
+
+#U
+import turtle
+turtle.forward(50)
+turtle.left(90)
+turtle.forward(100)
+turtle.right(180)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(50)
+turtle.right(90)
+turtle.forward(100)
+
+#m
+import turtle
+turtle.left(90)
+turtle.forward(100)
+turtle.right(150)
+turtle.forward(50)
+turtle.left(120)
+turtle.forward(50)
+turtle.right(150)
+turtle.forward(100)
+
+#N
+import turtle
+turtle.left(90)
+turtle.forward(100)
+turtle.right(150)
+turtle.forward(110)
+turtle.left(150)
+turtle.forward(100)
+
+#D
+turtle.forward(50)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(50)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+
